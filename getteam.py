@@ -21,7 +21,7 @@ from datetime import datetime
 now = datetime.now()
 str_now = now.strftime('%Y%m%d')
 desktop_path = "D:/GoogleDrive/Stock_Alerts/Data/"
-laptop_path = "C:/Users/zack/Google ドライブ/Stock_Alerts/Data/"
+laptop_path = "C:\project\pjsteam\html\"
 data_path = desktop_path
 
 daily_dir_path = data_path + str_now
